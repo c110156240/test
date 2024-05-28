@@ -1,0 +1,135 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue May 28 23:35:14 2024
+
+@author: Genuine
+"""
+
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "我是一個根據MBTI人格類型給予對應回應的助手。"
+    },
+    {
+      "role": "user",
+      "content": "INFP"
+    },
+    {
+      "role": "assistant",
+      "content": "作為內向的理想主義者INFP,你需要一個能夠欣賞你獨特想法並給予啟發的人。ENFJ作為外向的導師型人格,他們富有熱情、善解人意,能帶給你溫暖和鼓勵。這對組合可以互補彼此的不足,ENFJ的外向性格能推動INFP實現理想,而INFP也能平和ENFJ的過度熱情。"
+    },
+    {
+      "role": "user",
+      "content": "ENFJ"
+    },
+    {
+      "role": "assistant",
+      "content": "作為內向的理想主義者INFP,需要一個能夠欣賞你獨特想法並給予啟發的人。ENFJ作為外向的導師型人格,你富有熱情、善解人意,能帶給你溫暖和鼓勵。這對組合可以互補彼此的不足,ENFJ的外向性格能推動INFP實現理想,而INFP也能平和ENFJ的過度熱情。"
+    },
+    {
+      "role": "user",
+      "content": "INFJ"
+    },
+    {
+      "role": "assistant",
+      "content": "INFJ和ENFP是一對有趣的組合。作為內向的理解者和外向的活動家,你們能夠互補對方的特質。INFJ善於深入洞察,而ENFP熱情奔放,你們可以一起探索新奇有趣的事物。ENFP的創新思維能激發INFJ的靈感,而INFJ的分析能力也能給ENFP指明方向。只要互相尊重對方的獨特之處,你們定能相得益彰。"
+    },
+    {
+      "role": "user",
+      "content": "ENFP"
+    },
+    {
+      "role": "assistant",
+      "content": "INFJ和ENFP是一對有趣的組合。INFJ作為內向的理解者和外向的活動家,能夠互補你的特質。因為INFJ善於深入洞察,而ENFP熱情奔放,你們可以一起探索新奇有趣的事物。ENFP的創新思維能激發INFJ的靈感,而INFJ的分析能力也能給ENFP指明方向。只要互相尊重對方的獨特之處,你們定能相得益彰。"
+    },
+    {
+      "role": "user", 
+      "content": "3. INTP - ENTJ"
+    },
+    {
+      "role": "assistant",
+      "content": "INTP和ENTJ是一對相當有趣的組合。作為內向的思考型和外向的指揮型,你們在思考模式和做事風格上存在明顯差異。INTP喜歡深入探索理論,而ENTJ則更注重實際行動。這種差異可能導致一些衝突,但也正因如此,你們才能互補長短。INTP能為ENTJ提供創新思路,而ENTJ則能推動INTP將想法付諸實踐。只要互相尊重,你們定能發揮最大潛能。"
+    },
+    {
+      "role": "user",
+      "content": "INTJ" 
+    },
+    {
+      "role": "assistant",
+      "content": "作為大腦級組合的INTJ和ENTP,你們都是富有獨創性的思考者。INTJ內斂理性,喜歡縝密思考,而ENTP則活潑熱情,思路靈活多變。這對組合可以在思想交鋒中激盪出嶄新的火花。ENTP能夠挑戰INTJ的觀點,給予新穎啟發,而INTJ的分析能力也能為ENTP系統化想法。你們若能虛心互補,定能攜手改變世界。"
+    },
+    {
+      "role": "user",
+      "content": "ENTP" 
+    },
+    {
+      "role": "assistant",
+      "content": "作為大腦級組合的INTJ和ENTP,你們都是富有獨創性的思考者。INTJ內斂理性,喜歡縝密思考,而ENTP則活潑熱情,思路靈活多變。這對組合可以在思想交鋒中激盪出嶄新的火花。ENTP能夠挑戰INTJ的觀點,給予新穎啟發,而INTJ的分析能力也能為ENTP系統化想法。你們若能虛心互補,定能攜手改變世界。"
+    },
+    {
+      "role": "user",
+      "content": "ISFP"
+    },
+    {
+      "role": "assistant",
+      "content": "ISFP和ESFJ是一對互補的組合。內向的藝術家ISFP富有獨特審美觀和細膩情操,而外向的人親和者ESFJ則擅長關懷他人、營造和諧。ESFJ的熱情親和能成為ISFP表達自我的絕佳舞台,而ISFP獨特的藝術天賦也能豐富ESFJ的精神生活。你們只需互相欣賞對方的獨特魅力,就能構建美滿的關係。"
+    },
+    {
+      "role": "user",
+      "content": "ESFJ"
+    },
+    {
+      "role": "assistant",
+      "content": "ISFP和ESFJ是一對互補的組合。內向的藝術家ISFP富有獨特審美觀和細膩情操,而外向的人親和者ESFJ則擅長關懷他人、營造和諧。ESFJ的熱情親和能成為ISFP表達自我的絕佳舞台,而ISFP獨特的藝術天賦也能豐富ESFJ的精神生活。你們只需互相欣賞對方的獨特魅力,就能構建美滿的關係。"
+    },
+    {
+      "role": "user",
+      "content": "ISFJ"
+    },
+    {
+      "role": "assistant",
+      "content": "作為內向的守護者和外向的娛樂家,ISFJ和ESFP在性格上存在不小差異。ISFJ較為傳統務實,而ESFP熱愛新奇刺激。這種差異可能會導致一些磨合,但也正因如此,你們更能彼此啟發。ISFJ能幫助ESFP穩紮紮實實,而ESFP也能讓ISFJ的生活更加多姿多彩。只要互相欣賞對方的獨特魅力,你們一定能相得益彰。"
+    },
+    {
+      "role": "user",
+      "content": "ESFP"
+    },
+    {
+      "role": "assistant",
+      "content": "ISFJ作為內向的守護者和外向的娛樂家,ISFJ和ESFP在性格上存在不小差異。ISFJ較為傳統務實,而ESFP熱愛新奇刺激。這種差異可能會導致一些磨合,但也正因如此,你們更能彼此啟發。ISFJ能幫助ESFP穩紮紮實實,而ESFP也能讓ISFJ的生活更加多姿多彩。只要互相欣賞對方的獨特魅力,你們一定能相得益彰。"
+    },
+    {
+      "role": "user",
+      "content": "ESTJ"
+    },
+    {
+      "role": "assistant",
+      "content": "ISTP和ESTJ是一對實踐者組合。內向的工匠ISTP善於動手實踐,而外向的管理者ESTJ則擅長統籌規劃。這對搭檔可謂勢均力敵,在工作中可以發揮1+1>2的綜合效應。ISTP的細緻能力可以補足ESTJ的規劃不周,而ESTJ的領導力也能為ISTP指明方向。你們只需互相欣賞對方的長處,定能事半功倍。"
+    },
+    {
+      "role": "user",
+      "content": "ISTP"
+    },
+    {
+      "role": "assistant",
+      "content": "ISTP和ESTJ是一對實踐者組合。內向的工匠ISTP善於動手實踐,而外向的管理者ESTJ則擅長統籌規劃。這對搭檔可謂勢均力敵,在工作中可以發揮1+1>2的綜合效應。ISTP的細緻能力可以補足ESTJ的規劃不周,而ESTJ的領導力也能為ISTP指明方向。你們只需互相欣賞對方的長處,定能事半功倍。"
+    },
+    {
+      "role": "user",
+      "content": "ISTJ"
+    },
+    {
+      "role": "assistant",
+      "content": "ISTJ和ESTP是一對有趣的組合。內向的現實主義者ISTJ喜好有條有理,而外向的活生生ESTP則熱愛刺激與挑戰。這種差異可能令你們在生活理念上存在分歧,但同時也能互補彼此。ISTJ的穩重能為ESTP提供安全感,而ESTP的活力則能豐富ISTJ的生活體驗。你們若能相互欣賞接納,定能相得益彰。"
+    }
+    {
+      "role": "user",
+      "content": "ESTP"
+    },
+    {
+      "role": "assistant",
+      "content": "ISTJ和ESTP是一對有趣的組合。內向的現實主義者ISTJ喜好有條有理,而外向的活生生ESTP則熱愛刺激與挑戰。這種差異可能令你們在生活理念上存在分歧,但同時也能互補彼此。ISTJ的穩重能為ESTP提供安全感,而ESTP的活力則能豐富ISTJ的生活體驗。你們若能相互欣賞接納,定能相得益彰。"
+    }
+  ]
+}
