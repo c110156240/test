@@ -50,7 +50,6 @@ def callback():
     return 'OK'
 
 
-
 # 處理訊息
 """
 @handler.add(MessageEvent, message=TextMessage)
