@@ -58,7 +58,8 @@ def handle_message(event):
     GPT_answer = GPT_response(msg)  # 在這裡呼叫 GPT_response 函數處理用戶的訊息
     print(GPT_answer)
     line_bot_api.reply_message(event.reply_token, TextSendMessage(GPT_answer))
-"""
+
 if __name__ == "__main__":
     port = int(os.environ.get('PORT', 5000))
     app.run(host='0.0.0.0', port=port)
+"""
