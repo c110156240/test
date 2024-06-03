@@ -33,7 +33,7 @@ import os
 os.system('pip install openai --upgrade')
 
 # 使用 curl 下載 clinic_qa.json 文件
-os.system('curl -o clinic_qa.json -L https://https://github.com/c110156240/test/new/main/1.json')
+os.system('curl -o clinic_qa.json -L https://https://github.com/c110156240/test/new/main/clinic_qa.json')
 
 import openai
 
